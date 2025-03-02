@@ -5,6 +5,10 @@
 
 [![OpenCore](https://img.shields.io/badge/OpenCore-1.0.2-blue.svg)](https://github.com/acidanthera/OpenCorePkg)
 
+## Download Link ##
+
+https://drive.google.com/file/d/1tVkSfXJRXEgoqrP_5KiE4X0BL_MGSq7W/view?usp=drive_link
+
 ## Introduction
 
 **DISCLAIMER:**
