@@ -3,7 +3,7 @@
 **Status: Finished | Stable** <br>
 **Current version: Ventura 13.7.4**
 
-[![OpenCore](https://img.shields.io/badge/OpenCore-0.6.6-blue.svg)](https://github.com/acidanthera/OpenCorePkg)
+[![OpenCore](https://img.shields.io/badge/OpenCore-1.0.2-blue.svg)](https://github.com/acidanthera/OpenCorePkg)
 
 ## Introduction
 
