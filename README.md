@@ -7,7 +7,7 @@
 
 ## Download Link ##
 
-https://drive.google.com/file/d/1tVkSfXJRXEgoqrP_5KiE4X0BL_MGSq7W/view?usp=drive_link
+https://drive.google.com/file/d/1tVkSfXJRXEgoqrP_5KiE4X0BL_MGSq7W/view?usp=sharing
 
 ## Introduction
 
